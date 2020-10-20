@@ -1,0 +1,15 @@
+.pertama{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.kedua{
+    font-size: 3em;
+}
+.ketiga{
+    font-size: 5rem;
+}
+
+.one{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
